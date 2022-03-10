@@ -6,7 +6,7 @@ I'm gratuated in Analyses and Development of Systems
 
 Currently I'm software developer and pass my days studying more and more about Javascript, node.js, clean code, TDD and creating some code. 🔧
 
-On my projects, I like to use MongoDB, Typescript, Socket.io, Bootstrap, Materialize, Docker and a lot of javascript (did I say it before? 😏)
+On my projects, I like to use MongoDB, Typescript, Socket.io, Bootstrap, Materialize, Docker and a lot of javascript (did I say it before?😏)
 
 At this moment, **I'm open to work**, so you can contact me on my Linkedin
 
