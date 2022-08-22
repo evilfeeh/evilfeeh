@@ -9,7 +9,8 @@
  BTW, I created a podcast called [Meia noite eu te conto](https://open.spotify.com/show/0xBr76A7bguhNsik0UlLcw)
 <br><br>
 **The road so far**
-  - **2022-today** Analyst Backend in [LinkApi Solutions by Semantix](https://www.linkedin.com/company/linkapisolutions/mycompany/)
+  - **2022-today** Node.js Developer Backend in [Semantix}(https://www.linkedin.com/company/semantixai/)
+  - **2022-2022** Analyst Backend in [LinkApi Solutions by Semantix](https://www.linkedin.com/company/linkapisolutions/)
   - **2017-2022** FullStack Developer in [PontalTech](https://www.linkedin.com/company/pontaltech/)
   - **2015-2017** gratuated in ADS by Universidade Paulista.
 <br><br>
