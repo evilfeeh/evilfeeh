@@ -1,12 +1,12 @@
 ## Hey, **I'm Felipe Santos** 🔥
 
- I start with HTML and CSS, but fall in love to JavaScript. 
+ I started with HTML and CSS and fall in love for JavaScript. 
  
- I learned how to create, refactor, monitor and test code, for the last 4 years. Now, learning about Arduino and C++.
+ I learned how to create, refactor, monitor and test code, for the last 6 years. Now, learning about GoLang.
  
  Passionate about Space and NASA, Stranger Things, RPG, Games, Horror movies and heavy metal songs. 🌌
  
- BTW, I created a podcast called [Meia noite eu te conto](https://open.spotify.com/show/0xBr76A7bguhNsik0UlLcw)
+ BTW, I have a podcast: [Meia noite eu te conto](https://open.spotify.com/show/0xBr76A7bguhNsik0UlLcw)
 <br><br>
 **The road so far**
   - **2022-today** Tech Lead Developer Backend in [Semantix](https://www.linkedin.com/company/semantixai/)
