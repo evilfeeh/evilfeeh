@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [Semantix](https://semantix.ai)
 - 🌱 I’m currently learning **Golang**
 - 💬 Ask me about **Node.js, Data, DEVOPS**
-- 📫 How to reach me **felipegoncalvesdsantos+github@gmail.com**
+- 📫 How to reach me **felipegoncalvesdsantos@gmail.com**
 - ⚡ Fun fact **I have a podcast on Spotify**
 - 🌌 Passionate about Space and NASA, Stranger Things, RPG, Games, Horror movies and heavy metal songs. 
  
@@ -28,8 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evilfeeh&show_icons=true&locale=en&layout=compact" alt="evilfeeh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilfeeh&show_icons=true&locale=en" alt="evilfeeh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilfeeh&" alt="evilfeeh" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilfeeh&show_icons=true&locale=en" alt="evilfeeh" /></p
 
