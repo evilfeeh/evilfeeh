@@ -5,7 +5,7 @@
 - 💬 Ask me about **Node.js, Data, DEVOPS**
 - 📫 How to reach me **felipegoncalvesdsantos@gmail.com**
 - ⚡ Fun fact **I have a podcast on Spotify**
-- 🌌 Passionate about Space RPG, Horror movies and heavy metal songs.
+- 🌌 Passionate about Space, Horror movies and heavy metal songs.
  
  BTW, I have a podcast: [Meia noite eu te conto](https://open.spotify.com/show/0xBr76A7bguhNsik0UlLcw)
 <br><br>
