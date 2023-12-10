@@ -1,36 +1,50 @@
-## Hey, **I'm Felipe Santos** 🔥
+### Who Am I?
 
-- 🔭 I’m currently working on [Semantix](https://semantix.ai)
-- 🌱 I’m currently learning **Golang**
-- 💬 Ask me about **Node.js, Data, DEVOPS**
-- 📫 How to reach me **felipegoncalvesdsantos@gmail.com**
-- ⚡ Fun fact **I have a podcast on Spotify** called [Meia-Noite Eu Te conto](https://open.spotify.com/show/0xBr76A7bguhNsik0UlLcw)
-- 🌌 Passionate about Space, Horror movies and heavy metal songs.
- 
-<br><br>
-**The road so far**
-  - **2022-today** Software Engineer at [Semantix](https://www.linkedin.com/company/semantixai/)
-  - **2022-2022** Node.js Developer Backend at [Semantix](https://www.linkedin.com/company/semantixai/)
-  - **2022-2022** Analyst Backend at [LinkApi Solutions by Semantix](https://www.linkedin.com/company/linkapisolutions/)
-  - **2017-2022** FullStack Developer at [PontalTech](https://www.linkedin.com/company/pontaltech/)
-  - **2015-2017** Gratuated in ADS by Universidade Paulista.
-<br><br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h3 align="left">The stack tools</h3>
+``` js
+import Developer from "evilfeeh";
+
+class AboutMe extends Developer {
+  name="Felipe Santos";
+  area="Software Developer";
+  work="Semantix";
+  place="São Paulo/Brazil";
+  code() {
+    while (this.hasCoffee()) {
+      do();
+    }
+  }
+  hasCoffee () {
+    return true;
+  }
+}
+```
+### Work Experience
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGarJJfg0ceWg/company-logo_200_200/0/1679083446866/semantixai_logo?e=1710374400&v=beta&t=tiuX5LZDi55encwiAjibfUUEVCtyAFkcccn46CR1jls"/>](https://semantix.ai)
+
+**Software Engineer | Tech lead** \
+[**Semantix**](https://semantix.ai) • Full-time \
+Languages & Tecnologies: `Typescript`, `GoLang`, `Nest.JS`, `Kubernetes`, `GCP`, `Postgres`, `RabbitMQ`\
+Projects: **SDI**, **SDP**
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQFoRYymTISznw/company-logo_200_200/0/1655321412505/pontaltech_logo?e=1710374400&v=beta&t=QCzHQNN89Des96Ov3RhRn125vXa1qwBby8Bo4F_hoak"/>](https://pontaltech.com.br)
+
+**Developer Fullstack** \
+[**Pontaltech**](https://pontaltech.com.br) • Full-time \
+Languages & Tecnologies: `JavaScript`, `Node`, `PHP`, `AWS`, `Mysql`, `MongoDB`, `Docker` \
+Projects: **SMS**, **Custom Reports**
+<br/>
+
+### Contact me
 <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/evilfeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evilfeeh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipegsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipegsantos" height="30" width="40" /></a>
-</p>
+  <a href="mailto:felipegoncalvesdsantos@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
+  <a href="https://www.linkedin.com/in/felipegdsantos/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+  <a href="https://www.x.com/evilfeeh" title="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
