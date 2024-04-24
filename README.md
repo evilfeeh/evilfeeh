@@ -3,21 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ``` js
-import Developer from "evilfeeh";
-
-class AboutMe extends Developer {
-  name="Felipe Santos";
-  area="Software Developer";
-  work="Semantix";
-  place="São Paulo/Brazil";
-  code() {
-    while (this.hasCoffee()) {
-      do();
-    }
-  }
-  hasCoffee () {
-    return true;
-  }
+const me = {
+  name: "Felipe Santos",
+  role: "Software Engineer",
+  place: "São Paulo/Brazil",
+  passion: "Motorcycles"
 }
 ```
 ### Work Experience
