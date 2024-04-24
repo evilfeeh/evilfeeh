@@ -1,6 +1,6 @@
 ### Who Am I?
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="200px" align="right">
 
 ``` js
 const me = {
@@ -19,7 +19,7 @@ Languages & Tecnologies: `Typescript`, `GoLang`, `Nest.JS`, `Kubernetes`, `GCP`,
 Projects: **SDI**, **SDP**
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQFoRYymTISznw/company-logo_200_200/0/1655321412505/pontaltech_logo?e=1710374400&v=beta&t=QCzHQNN89Des96Ov3RhRn125vXa1qwBby8Bo4F_hoak"/>](https://pontaltech.com.br)
+[<img align="left" height="54px" width="54px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQFoRYymTISznw/company-logo_200_200/0/1655321412505/pontaltech_logo?e=1710374400&v=beta&t=QCzHQNN89Des96Ov3RhRn125vXa1qwBby8Bo4F_hoak"/>](https://pontaltech.com.br)
 
 **Developer Fullstack** \
 [**Pontaltech**](https://pontaltech.com.br) • Full-time \
