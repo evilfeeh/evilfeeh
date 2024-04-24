@@ -11,15 +11,11 @@ const me = {
 }
 ```
 ### Work Experience
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQGarJJfg0ceWg/company-logo_200_200/0/1679083446866/semantixai_logo?e=1710374400&v=beta&t=tiuX5LZDi55encwiAjibfUUEVCtyAFkcccn46CR1jls"/>](https://semantix.ai)
-
 **Software Engineer | Tech lead** \
 [**Semantix**](https://semantix.ai) • Full-time \
 Languages & Tecnologies: `Typescript`, `GoLang`, `Nest.JS`, `Kubernetes`, `GCP`, `Postgres`, `RabbitMQ`\
 Projects: **SDI**, **SDP**
 <br/>
-
-[<img align="left" height="54px" width="54px" alt="Rocketseat" src="https://media.licdn.com/dms/image/C4E0BAQFoRYymTISznw/company-logo_200_200/0/1655321412505/pontaltech_logo?e=1710374400&v=beta&t=QCzHQNN89Des96Ov3RhRn125vXa1qwBby8Bo4F_hoak"/>](https://pontaltech.com.br)
 
 **Developer Fullstack** \
 [**Pontaltech**](https://pontaltech.com.br) • Full-time \
