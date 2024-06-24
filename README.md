@@ -11,6 +11,13 @@ const me = {
 }
 ```
 ### Work Experience
+
+**System Software Specialist** \
+[**Encora**](https://www.encora.com) • Full-time \
+Languages & Tecnologies: `Typescript`, `AWS`\
+Projects: **Services**
+<br/>
+
 **Software Engineer | Tech lead** \
 [**Semantix**](https://semantix.ai) • Full-time \
 Languages & Tecnologies: `Typescript`, `GoLang`, `Nest.JS`, `Kubernetes`, `GCP`, `Postgres`, `RabbitMQ`\
